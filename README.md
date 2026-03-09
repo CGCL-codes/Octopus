@@ -78,4 +78,12 @@ pip install -r requirements.txt
 python data/download.py
 ```
 
+## 🙏 Acknowledgments
+
+We gratefully acknowledge the foundational contributions of PimPam [SIGMOD'24], which inspired and informed much of this work.
+We thank the authors for advancing the state of graph pattern mining on real Processing-in-Memory hardware and for generously releasing their implementation, which has been invaluable to our research.
+
+Reference:
+Shuangyu Cai, Boyu Tian, Huanchen Zhang, and Mingyu Gao. PimPam: Efficient Graph Pattern Matching on Real Processing-in-Memory Hardware. In Proceedings of the ACM on Management of Data (SIGMOD '24), Volume 2, Issue 3, Article 161, Pages 1–25.
+
 ---
